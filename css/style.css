@@ -309,6 +309,10 @@ div.hideCategory{
     margin-top:8%;
 }
 
+.contact h1{
+    font-size:120px;
+}
+
 form input,
 form textarea {
     display: block;
